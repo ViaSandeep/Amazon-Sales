@@ -35,12 +35,12 @@ This Tableau dashboard provides a comprehensive analysis of **Amazon sales perfo
 ---
 
 ## 📷 Dashboard Preview  
-![Dashboard Screenshot](#)
+![Dashboard Screenshot]()
 
 ---
 
 ## 🔗 Project Links  
-- 🌐 [Tableau Public Dashboard](#https://public.tableau.com/shared/4WZZYC6NK?:display_count=n&:origin=viz_share_link)  
+- 🌐 [Tableau Public Dashboard](https://public.tableau.com/shared/4WZZYC6NK?:display_count=n&:origin=viz_share_link)  
 
 ---
 
@@ -60,6 +60,6 @@ This Tableau dashboard provides a comprehensive analysis of **Amazon sales perfo
 
 ## 🙌 Author  
 **Sandeep Singh Yadav**  
-📧 Contact: [Email](#viasundeep@gmail.com) | 🔗 [LinkedIn](#www.linkedin.com/in/viasandeep)  
+📧 Contact: [Email](viasundeep@gmail.com) | 🔗 [LinkedIn](www.linkedin.com/in/viasandeep)  
 
 ---
